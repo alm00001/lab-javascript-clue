@@ -1,4 +1,5 @@
 
+// Work with Alvaro and Pablo
 var characters = [{
   firstName: "Jacob",
   lastName:  "Green",
